@@ -1,0 +1,65 @@
+@import url('https://fonts.cdnfonts.com/css/akrobat');
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+	-webkit-user-drag: none;
+  	-khtml-user-drag: none;
+  	-moz-user-drag: none;
+  	-o-user-drag: none;
+}
+
+#container {
+	position: absolute;
+	width: 100vw;
+	height: 100vh;
+	overflow: hidden;
+}
+
+#notification {
+	position: absolute;
+	width: 46.0938vw;
+	height: 27.8704vh;
+	left: 26.9792vw;
+	top: 36.1111vh;
+	overflow: visible;
+}
+
+#background {
+	fill: rgba(226, 62, 62, 0.87);
+}
+
+.background {
+	filter: drop-shadow(0px 50px 99px rgba(226, 62, 63, 1));
+	position: absolute;
+	overflow: visible;
+	width: 61.5625vw;
+	height: 55.3704vh;
+	left: 0vw;
+	top: 0vh;
+}
+
+#text {
+	left: 1.4583vw;
+	top: 12.3148vh;
+	position: absolute;
+	overflow: visible;
+	width: 43.2292vw;
+	height: 12.6852vh;
+	line-height: 1.5625vw;
+	margin-top: -0.1302vw;
+	text-align: center;
+	font-family: Akrobat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 1.3021vw;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
