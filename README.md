@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://infinity-devt.com">
-    <img src="https://i.imgur.com/4fTTjzW.png" alt="Warning Notification">
+    <img src="https://forum.cfx.re/uploads/default/optimized/4X/6/f/1/6f1ccd07f719240f0b7ab7994d14a81ef7621621_2_690x388.jpeg" alt="Warning Notification">
   </a>
 
   <h3 align="center">Car Wash</h3>
